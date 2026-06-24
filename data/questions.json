@@ -1,0 +1,526 @@
+{
+  "EY": {
+    "Audit": [
+      {
+        "question": "What are the key assertions in audit?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Associate"
+      },
+      {
+        "question": "Explain materiality in audit.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Analyst"
+      },
+      {
+        "question": "What is audit risk?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Associate"
+      },
+      {
+        "question": "What are substantive procedures?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Senior Auditor"
+      },
+      {
+        "question": "How do you test revenue recognition?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Manager"
+      },
+      {
+        "question": "What is a test question for CI purposes?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Test Analyst"
+      }
+    ],
+    "Tax": [
+      {
+        "question": "What is the difference between direct tax and indirect tax?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Analyst"
+      },
+      {
+        "question": "What is transfer pricing?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Consultant"
+      },
+      {
+        "question": "How does GST input credit work?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Associate"
+      },
+      {
+        "question": "What is deferred tax liability?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Senior"
+      },
+      {
+        "question": "Explain tax planning vs tax evasion.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Analyst"
+      }
+    ],
+    "Valuation": [
+      {
+        "question": "How do you value a company using DCF?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Valuation Analyst"
+      },
+      {
+        "question": "What is WACC and how do you calculate it?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Valuation Associate"
+      },
+      {
+        "question": "Explain comparable company analysis.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Valuation Analyst"
+      },
+      {
+        "question": "What is terminal value?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Valuation Intern"
+      },
+      {
+        "question": "How do you select appropriate valuation multiples?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Valuation Senior"
+      }
+    ],
+    "Consulting": [
+      {
+        "question": "Describe a process improvement project you led.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Consultant"
+      },
+      {
+        "question": "How would you approach an ERP implementation?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Senior Consultant"
+      },
+      {
+        "question": "What is change management?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Associate Consultant"
+      },
+      {
+        "question": "How do you handle stakeholder resistance?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Consultant"
+      },
+      {
+        "question": "Explain the difference between strategy and operations consulting.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Analyst"
+      }
+    ],
+    "Strategy & Transactions": [
+      {
+        "question": "What is due diligence?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Transaction Associate"
+      },
+      {
+        "question": "How do you assess synergies in M&A?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Strategy Analyst"
+      },
+      {
+        "question": "What is post-merger integration?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Integration Manager"
+      }
+    ]
+  },
+  "Deloitte": {
+    "Audit": [
+      {
+        "question": "Explain the audit sampling methodology.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Associate"
+      },
+      {
+        "question": "What are PCAOB standards?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Senior"
+      },
+      {
+        "question": "How do you assess going concern?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Analyst"
+      },
+      {
+        "question": "What are internal controls over financial reporting?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Associate"
+      },
+      {
+        "question": "Describe the audit engagement planning process.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Intern"
+      }
+    ],
+    "Tax": [
+      {
+        "question": "What is tax compliance?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Analyst"
+      },
+      {
+        "question": "Explain international taxation basics.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Consultant"
+      },
+      {
+        "question": "How is tax technology transforming compliance?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Technology Analyst"
+      }
+    ],
+    "Valuation": [],
+    "Consulting": [
+      {
+        "question": "Describe a strategy framework you have used.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Strategy Consultant"
+      },
+      {
+        "question": "How do you manage client expectations?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Consultant"
+      }
+    ],
+    "Strategy & Transactions": []
+  },
+  "KPMG": {
+    "Audit": [
+      {
+        "question": "How do you perform risk assessment in audit?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Associate"
+      },
+      {
+        "question": "What is the importance of audit documentation?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Analyst"
+      },
+      {
+        "question": "Explain group audit considerations.",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Senior"
+      }
+    ],
+    "Tax": [
+      {
+        "question": "What is BEPS and why does it matter?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Consultant"
+      },
+      {
+        "question": "Explain transfer pricing documentation requirements.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Transfer Pricing Analyst"
+      }
+    ],
+    "Valuation": [],
+    "Consulting": [],
+    "Strategy & Transactions": []
+  },
+  "PwC": {
+    "Audit": [
+      {
+        "question": "Describe PwC's audit methodology.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Associate"
+      },
+      {
+        "question": "How is data analytics used in modern auditing?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Data Analyst"
+      },
+      {
+        "question": "What regulatory compliance challenges do auditors face?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Audit Senior"
+      }
+    ],
+    "Tax": [
+      {
+        "question": "What is the impact of global tax reform?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "International Tax Consultant"
+      },
+      {
+        "question": "Explain R&D tax credit qualification.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Tax Analyst"
+      }
+    ],
+    "Valuation": [],
+    "Consulting": [],
+    "Strategy & Transactions": []
+  },
+  "Amazon": {
+    "Software Engineering": [
+      {
+        "question": "Explain the difference between array and linked list.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Software Development Engineer"
+      },
+      {
+        "question": "Design a URL shortening service.",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "SDE II"
+      },
+      {
+        "question": "What is the difference between TCP and UDP?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Software Development Engineer"
+      },
+      {
+        "question": "Explain Amazon's leadership principles.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "SDE I"
+      },
+      {
+        "question": "How would you design an auto-scaling system?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "SDE III"
+      }
+    ],
+    "Data Science": [
+      {
+        "question": "How would you handle missing values in a dataset?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Scientist"
+      },
+      {
+        "question": "Explain overfitting and underfitting.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Scientist"
+      },
+      {
+        "question": "What is the difference between precision and recall?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Applied Scientist"
+      },
+      {
+        "question": "How would you forecast demand for a new product?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Scientist II"
+      },
+      {
+        "question": "How does XGBoost work?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "ML Engineer"
+      }
+    ],
+    "Data Analyst": [
+      {
+        "question": "Write a SQL query to find duplicate records.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Business Analyst"
+      },
+      {
+        "question": "How do you define and track KPIs?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Analyst"
+      },
+      {
+        "question": "Explain the difference between OLTP and OLAP.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "BI Analyst"
+      }
+    ],
+    "Product Analyst": [
+      {
+        "question": "How would you measure the success of a new feature?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Product Analyst"
+      },
+      {
+        "question": "Explain funnel analysis.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Product Analyst"
+      }
+    ]
+  },
+  "Google": {
+    "Software Engineering": [
+      {
+        "question": "Design a distributed caching system.",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Software Engineer L4"
+      },
+      {
+        "question": "What is the time complexity of quicksort?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Software Engineer L3"
+      },
+      {
+        "question": "How does garbage collection work in Java?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Software Engineer L3"
+      },
+      {
+        "question": "Design Google Docs real-time collaboration.",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Software Engineer L5"
+      }
+    ],
+    "Data Science": [
+      {
+        "question": "How would you detect fraud in ad clicks?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Scientist"
+      },
+      {
+        "question": "Explain the bias-variance tradeoff.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Research Scientist"
+      }
+    ],
+    "Data Analyst": [
+      {
+        "question": "How do you handle data quality issues at scale?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Analyst"
+      }
+    ],
+    "Product Analyst": [
+      {
+        "question": "How would you measure the impact of a search algorithm change?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Product Analyst"
+      }
+    ]
+  },
+  "Microsoft": {
+    "Software Engineering": [
+      {
+        "question": "Design a notification system for Teams.",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "SDE II"
+      },
+      {
+        "question": "Explain the SOLID principles.",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Software Engineer"
+      },
+      {
+        "question": "What is dependency injection?",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "SDE I"
+      }
+    ],
+    "Data Science": [
+      {
+        "question": "How would you build a recommendation engine for Azure Marketplace?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Scientist"
+      },
+      {
+        "question": "Explain the difference between supervised and unsupervised learning.",
+        "difficulty": "Easy",
+        "date_added": "2026-06-24",
+        "role_applied_for": "ML Engineer"
+      }
+    ],
+    "Data Analyst": [
+      {
+        "question": "How do you create effective Power BI dashboards?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Data Analyst"
+      }
+    ],
+    "Product Analyst": [
+      {
+        "question": "How would you analyze user engagement for Microsoft 365?",
+        "difficulty": "Medium",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Product Analyst"
+      }
+    ]
+  },
+  "McKinsey": {
+    "Strategy": [
+      {
+        "question": "How do you approach a market sizing problem?",
+        "difficulty": "Hard",
+        "date_added": "2026-06-24",
+        "role_applied_for": "Associate"
+      }
+    ]
+  }
+}

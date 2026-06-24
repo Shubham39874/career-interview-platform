@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CareerPrep — Interview Questions Platform</title>
+  <meta name="description" content="Browse real interview questions by company, domain, and difficulty. Prepare smarter for your next career interview." />
+  <link rel="stylesheet" href="/static/style.css" />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    integrity="sha512-Avb2QiuDEEvB4bZJYdft2mNjVShBftLdPG8FJ0V7irTLQ8Uo0qcPxh4Plq7G5tGm0rU+1SPhVotteLpBERwOg=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+</head>
+<body>
+  <!-- ================================================================
+       NAVBAR — always visible
+  ================================================================ -->
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a class="nav-logo" href="#" onclick="navigate('home'); return false;">
+        <i class="fa-solid fa-briefcase-blank"></i>
+        <span>CareerPrep</span>
+      </a>
+      <div class="nav-links">
+        <a href="#" onclick="navigate('careers'); return false;">
+          <i class="fa-solid fa-building-columns"></i> Careers
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ================================================================
+       MAIN APP CONTAINER — all pages rendered here
+  ================================================================ -->
+  <div id="app">
+    <!-- JavaScript renders page content here -->
+  </div>
+
+  <!-- ================================================================
+       MODAL OVERLAY — Add Question flow
+  ================================================================ -->
+  <div id="modal-overlay" class="modal-overlay hidden" onclick="closeModal(event)">
+    <div class="modal-box" id="modal-box" onclick="event.stopPropagation()">
+      <!-- Dynamically populated by JS -->
+    </div>
+  </div>
+
+  <!-- ================================================================
+       TOAST NOTIFICATION CONTAINER
+  ================================================================ -->
+  <div id="toast-container" aria-live="polite"></div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
